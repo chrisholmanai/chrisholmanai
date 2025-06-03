@@ -1,3 +1,10 @@
+![](assets/Bottom_up.svg)
+
+![](assets/header_.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230078D4&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B,+I+am+Chris+Holman;AI+%26+Data+Engineer+%7C+Azure+Data+Stack+Specialist;Azure+Data+Factory+%7C+Databricks+%7C+PowerShell;Python+%7C+ML+%7C+DevOps;Passionate+about+cloud-based+intelligent+solutions)](https://github.com/chrisholmanai)
+
+
 # 👨‍💻 Chris Holman | AI & Azure Data Engineer
 
 Welcome to my GitHub! I'm a passionate **Data & AI Specialist** focused on building end-to-end solutions using the **Microsoft Azure Data Stack**. My repositories demonstrate hands-on expertise in **DevOps, Data Engineering, Machine Learning**, and **Cloud Infrastructure**. Whether it’s spinning up a secure VM for ASDK or deploying a scalable data pipeline with Azure Databricks, every project here aims to bridge the gap between raw data and actionable insight.
