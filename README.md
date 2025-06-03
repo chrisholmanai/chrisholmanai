@@ -72,6 +72,14 @@ Welcome to my GitHub! I'm a passionate **Data & AI Specialist** focused on build
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisholmanai&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisholmanai&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+
+---
+
 ## 📈 Let's Connect
 
 - 🌐 [GitHub Profile](https://github.com/chrisholmanai)
